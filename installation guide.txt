@@ -1,0 +1,4 @@
+1.Tạo 1 folder chứa project
+2.Giải nén các file rar trong folder mới tạo
+3.Database project nằm trong folder Database
+4.Cài đặt cái file JAR trong folder jdbc trên netbeans
